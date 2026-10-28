@@ -1,0 +1,11 @@
+venv/
+venv-coreml/
+ddcolor-src/
+work/
+hf/
+*.mlpackage/
+coreml/sample-*.jpg
+*.mp4
+*.mkv
+__pycache__/
+.DS_Store

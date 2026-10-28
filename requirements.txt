@@ -1,0 +1,8 @@
+# PyTorch path (colorize.py). Tested on Python 3.14.9, macOS 27.0.1, Apple M1.
+torch==2.14.1
+torchvision==0.29.1
+timm==1.0.30
+opencv-python-headless==5.0.0.93
+numpy==2.5.4
+huggingface_hub==2.2.0
+safetensors==0.8.0

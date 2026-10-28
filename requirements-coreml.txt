@@ -1,0 +1,10 @@
+# Core ML path (coreml/convert.py, coreml/bench.py, colorize-coreml.py). Mac only.
+# Python 3.9 to 3.13: coremltools 9.0 has no wheel for 3.14. Tested on Python 3.9.6 (/usr/bin/python3).
+coremltools==9.0
+torch==2.7.0
+torchvision==0.22.0
+timm==1.0.30
+opencv-python-headless==5.0.0.93
+numpy==2.0.2
+huggingface_hub==1.8.0
+safetensors==0.7.0
